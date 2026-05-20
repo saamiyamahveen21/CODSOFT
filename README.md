@@ -8,7 +8,7 @@ It includes three Python-based projects built to strengthen my understanding of 
 - 🎬 Recommendation System (Content-Based Filtering)
 
 ---
-
+"""Note: The chatbot implementation file is named `stack.py` in this repository."""
 📌 Project Overview
 
 This repository demonstrates three different types of AI and logic-based systems:
