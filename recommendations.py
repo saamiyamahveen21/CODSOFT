@@ -112,7 +112,7 @@ def main():
         results = recommend_movies(user_prefs)
 
         print("\n" + "=" * 60)
-        print("🎬 YOUR NETFLIX-STYLE RECOMMENDATIONS")
+        print("🎬 YOUR  RECOMMENDATIONS")
         print("=" * 60)
 
         if not results:
